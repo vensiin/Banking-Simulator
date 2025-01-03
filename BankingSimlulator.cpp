@@ -13,6 +13,7 @@ double bills(double balance);
 int main()
 {
     double cash = 0;
+    cout << "hi";
     greetUser(cash);
     return 0;
 }
